@@ -1,4 +1,3 @@
-# -python-flask-rest-api-project
 # 1. Build Docker image
    docker build -t python-rest-api .
 # 2. Run Docker image
